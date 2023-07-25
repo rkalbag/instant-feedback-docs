@@ -4,8 +4,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 
-[installation screen]({{site.baseurl}}/images/install/image-20230515-094742.png)
-
-
+![installation screen](/images/install/image-20230515-094742.png)
 
 
