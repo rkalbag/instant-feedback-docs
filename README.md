@@ -1,5 +1,5 @@
 # Welcome to the documentation site for Instant Feedback
-You will find all the information needed to condifure and use Instant Feedback here.
+You will find all the information needed to configure and use Instant Feedback here.
 ## Introduction
 Instant Feedback is an application for Salesforce that povides a feedback web link for each Salesforce User. This means that each of your support or sales team memeber can have a unique link to receive feedback from colleagues, customers or anyone they share the link with. The link can be shared in chat instant messaging conversations with customers or in email signatures. The feedback is collected using a Salesforce Site and is linked appropriately.
 
