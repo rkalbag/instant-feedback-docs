@@ -5,24 +5,32 @@ Instant Feedback app is available from Salesforce App Exchange. This page explai
 Four custom objects are added by this App.
 
 
-### Feedback_Statistics__c
+### Feedback Statistics
 For each Salesforce User, this object calculates and stores the average rating, total number of reviews received, the number of reviews received for each type of rating (Very Unstaisfied, Unsatisfied, Neutral, Satisfied, Very Satisfied).
 
 
-### Feedback__c
+### Feedback
 This object stores the received rating and comment for every reviewed Salesforce User.
 
 
-### ReviewMap__c
+### ReviewMap
 This object ties the received feedback to the person that provided that feedback. Profiles not provided permission to this object will be unable to discover the identity of the person that provided feedback (i.e. the feedback will remain anonymous).
 
 
-### Reviewer__c
+### Reviewer
 This object stores information of a reviewer that is not already present as a Salesforce User, Lead, or Contact.
 
 
 ## Lightning Web Components (LWC)
 LWC are used in two different parts of the application: the forms shown to the reviewer on the publicly accessible Site and the Instant Feedback dashboard.
+
+### Instant Feedback Lightning Page
+This is the Lightning App that contains various LWC to show a dashboard, create the web links for each Salesforce User to use as their Instant Feedback links in email signatures and other ineteractions. It also shows the review statistics.
+
+### InstantFeedback Visualforce Page
+This Visualforce Page is used as the homepage of the Salesforce 
+
+
 ## Apex Classes
 ## Flow 
 ## Report
