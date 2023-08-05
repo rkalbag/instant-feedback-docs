@@ -32,6 +32,27 @@ This Visualforce Page is used as the homepage of the public Salesforce Site and 
 
 
 ## Apex Classes
+The public Site needs access to run certain Apex Classes which contain the code to update the applications Custom Objects and quering standard Salesforce objects such as Leads, Users, and Contacts. There are five main Apex Classes as listed below. The first three of them have a companion Helper Apex Class to actually create or update the records. All together these 8 clasess need to be given permission to be used by the Guest profile associated with the Site.
+
+
+### FeedbackController
+Stores the received feedback from the LWC using the FeedbackUpdateHelper Apex Class.
+
+
+### FeedbackStatsController
+Inserts or updates records of Feedback Statistics object based on rating received using the FeedbackStatsHelper Apex Class.
+
+
+### ReviewMapController
+Creates mapping between the received feedback and the reviewer (contact, lead, user, reviewer) using ReviewMapHelper Apex Class.
+
+
+### UserByEmailController
+Takes the reviewer email as input and finds if it matches an existing contact, lead, user, or reviewer
+
+### UserByIdController
+Uses SOQL to get user full name from Id in URL. This is needed because otherwise just nickname is shown for privacy and security
+
 ## Flow 
 ## Report
 
