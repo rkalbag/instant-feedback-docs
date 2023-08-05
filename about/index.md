@@ -28,7 +28,7 @@ LWC are used in two different parts of the application: the forms shown to the r
 This is the Lightning App that contains various LWC to show a dashboard, create the web links for each Salesforce User to use as their Instant Feedback links in email signatures and other ineteractions. It also shows the review statistics.
 
 ### InstantFeedback Visualforce Page
-This Visualforce Page is used as the homepage of the Salesforce 
+This Visualforce Page is used as the homepage of the public Salesforce Site and uses various LWCs to collect and display information during the feedback collection process.
 
 
 ## Apex Classes
