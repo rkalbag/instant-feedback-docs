@@ -1,4 +1,4 @@
-## Create A New Salesforce Site
+# Create A New Salesforce Site
 
 1. Type 'Site' in the **quick lookup** search box
 1. Select the check box **I have read and accepted the Salesforce Sites Terms of Use**
@@ -13,4 +13,3 @@
 
 
 <div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/TW3sdNJn9_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/youtube/">youtube embed video</a> generator</small></iframe></div>
-
