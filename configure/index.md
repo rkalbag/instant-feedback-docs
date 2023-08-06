@@ -13,3 +13,6 @@ The following are the main steps to setup the application:
 1. [Adding Sharing Rules for Site Guest User](https://rkalbag.github.io/instant-feedback-docs/#/./configure/Add%20Sharing%20Rules)
 
 	In order to lookup Salesforce records that are owned by others, the Apex Classes being executed as Site Guest User needs permissions which are provided by setting up Sharing Rules.
+1. [Check That An Administrator Is Set As A Flow User](https://rkalbag.github.io/instant-feedback-docs/#/./configure/Check%20Flow%20User%20Is%20Set)
+
+	The Application uses a Flow in order for a task to be created for the Manager of a Salesforce User that receives poor feedback. Check that a Flow User is present.
