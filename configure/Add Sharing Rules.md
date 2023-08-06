@@ -26,3 +26,5 @@ Select **Feedback** from the dropdown. Follow the same steps as for Lead. For se
 
 ## Sharing Rule for Feedback Statistics
 Select **Feedback Statistics** from the dropdown. Follow the same steps as for Lead. For selection criteria rule, select ‘Owner ID’ not equal to ““ (empty)
+
+<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/4QKcyXBwUuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/youtube/">youtube embed video</a> generator</small></iframe></div>
