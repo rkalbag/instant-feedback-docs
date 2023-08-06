@@ -1,7 +1,9 @@
 ## Installation from Salesforce AppExchange
 
+1. Search for 'Instant Feedback' in the Salesforce App Exchange
+2. Select one of the options from: 'Install for Admins Only,' 'Install for All Users,' 'Install for Specific Profiles'
+3. Wait till the installation is complete.
 
-
-[installation screen](https://rkalbag.github.io/instant-feedback-docs/images/install/image-20230515-094742.png)
+https://www.youtube.com/watch?v=bRs_ZknBZUA
 
 
