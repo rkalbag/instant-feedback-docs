@@ -16,3 +16,4 @@ The following are the main steps to setup the application:
 1. [Check That An Administrator Is Set As A Flow User](https://rkalbag.github.io/instant-feedback-docs/#/./configure/Check%20Flow%20User%20Is%20Set)
 
 	The Application uses a Flow in order for a task to be created for the Manager of a Salesforce User that receives poor feedback. Check that a Flow User is present.
+1. Check the Field Level Settings of Custom Objects for Site Profile
