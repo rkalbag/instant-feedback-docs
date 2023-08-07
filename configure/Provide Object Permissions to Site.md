@@ -1,5 +1,6 @@
 # Provide Object Permissions to Site
 
+1. Click on the **Public Access Settings** button of the Site 
 1. Click **Edit** on **Profile** page associated with the Site: fewqs Profile
 1. Enable permissions for standard and custom objects. 
 	
