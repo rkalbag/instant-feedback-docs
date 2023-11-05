@@ -1,6 +1,6 @@
 ## Installation from Salesforce AppExchange
 
-1. Search for 'Instant Feedback' in the Salesforce App Exchange
+1. 'Instant Feedback' is available from the [Salesforce App Exchange](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N4V00000IrJowUAF).
 2. Select one of the options from: 'Install for Admins Only,' 'Install for All Users,' 'Install for Specific Profiles'
 3. Wait till the installation is complete.
 
