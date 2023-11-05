@@ -1,5 +1,5 @@
 # About Instant Feedback App
-Instant Feedback app is available from Salesforce App Exchange. This page explains the components of the application in high-level technical detail for the Administrators to get an understanding of the inner workings.
+Instant Feedback app is available from [Salesforce App Exchange](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N4V00000IrJowUAF). This page explains the components of the application in high-level technical detail for the Administrators to get an understanding of the inner workings.
 
 ## Custom Objects
 This App adds four custom objects.
