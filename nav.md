@@ -3,6 +3,8 @@
 * [HOME](./)
 
 * [About](./about/index)
+  
+* [Test Drive](./test drive/index)
 
 * [Install](./install/index)
 
